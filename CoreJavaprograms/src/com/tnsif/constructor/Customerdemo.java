@@ -18,7 +18,7 @@ public class Customerdemo {
 		c.setCadress(add);
 		
 		System.out.println(c);
-		//instance of
+		//instance
 		boolean out=c instanceof Customer;
 		System.out.println(out);
 		sc.close();
