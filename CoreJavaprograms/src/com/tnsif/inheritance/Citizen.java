@@ -7,7 +7,7 @@ public class Citizen {
 	private long phno;
 	
 	public Citizen(String name, long adharno, String address,long phno) {
-		//super()
+		//super();
 		this.name = name;
 		this.adharno = adharno;
 		this.address = address;
