@@ -9,8 +9,10 @@ public class Demo1 {
 	Student s2=new Student(2,"dhaush");
 	Student s3=new Student(3,"dhanuh");
 	
+s1.display();
+s2.display();
+s3.display();
 
-Demo d=new Demo();
 
 	
 }

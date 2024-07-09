@@ -14,5 +14,6 @@ String name=sc.nextLine();
 System.out.println("enter the roll number");
 int roll=sc.nextInt();
 System.out.println("name "+name+" and roll "+roll);
+sc.close();
 }
 }

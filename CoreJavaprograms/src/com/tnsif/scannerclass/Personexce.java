@@ -16,6 +16,7 @@ public class Personexce {
 		t.calculatetax(pp);
 		System.out.println("after modification");
 		System.out.println(pp);
+		sc.close();
 	}
 
 	
